@@ -1,4 +1,4 @@
 .env
 node_modules/
 package-lock.json
-supabase password
+supabase password.txt
